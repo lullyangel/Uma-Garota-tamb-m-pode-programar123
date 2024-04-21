@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap'); 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+body {
+    font-size: 100%;
+    background-color: antiquewhite;
+
+}
+
+.Pa1 {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.P2 {
+    height: 300;
+}
+
+.P3 {
+    display: flex;
+    gap: 32px;
+}
+
+.P4 {
+    font-family: 'Sarala', sans-serif;
+    color: black;
+font-weight: 400;
+font-size: 18px;
+}
+.P6 {
+    margin-bottom: 48px;
+    border-top: 0.4px solid #FFF2E7;
+}
+
+.P7 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.P8 {
+     style='text-align:center
+    display: flex;
+    flex-direction: column;
+    gap: 32;
+
+}
+.P9 {
+    font-family: 'Righteous', cursive;
+font-weight: 400;
+font-size: 64px;
+color: black;
+
+}
+.P10 {
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400;
+font-size: 24px;
+}
+
+    .P11:hover {background-color: rgb(237, 159, 126);}
+.P11 {
+    background-color: #ECD6C4;
+    width: 180px;
+    height: 60px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400;
+font-size: 24px; 
+
+}
+
+
+
+
+.P12 {
+    height: 200;
+}
+.P13 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+margin-top: 48px;
+}
+
+.P14 {
+    border-top: 0.4px solid #FFF2E7;
+padding-top: 50px;
+margin-bottom: 20px;
+}
+
+.P15 {
+    font-family: 'Sarala', sans-serif;
+    font-weight: 300;
+font-size: 20px;
+display: block;
+    margin: 0 auto;
+
+
+}
+.p18 {
+    padding: 32px;
+    border-top: 0.4px solid #FFF2E7;
+}
+
+.P19 {
+    height: 500;
+    display: block;
+    margin: 0 auto;
+
+}
